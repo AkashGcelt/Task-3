@@ -1,12 +1,13 @@
-## Project Report: Employee Management System**
+## Project Report: Employee Management System
 
-## Task Title:** Employee Management System Development
-- **Task Description:** Creating a web-based application for managing employee information.
-- **Steps Taken:**
-  1. Designed the user interface using HTML and CSS.
-  2. Implemented form for adding employee details and display section for existing employees.
-  3. Utilized Font Awesome icons for edit and delete functionalities.
-  4. Wrote JavaScript code for handling form submission, editing, and deletion of employee records.
+## Task Title: Employee Management System Development
+
+## Task Description: Creating a web-based application for managing employee information.
+## Steps Taken:
+  - Designed the user interface using HTML and CSS.
+  - Implemented form for adding employee details and display section for existing employees.
+  - Utilized Font Awesome icons for edit and delete functionalities.
+  - Wrote JavaScript code for handling form submission, editing, and deletion of employee records.
 - **Challenges Faced:**
   1. Incorporating dynamic rendering of employee records posed challenges in structuring HTML elements.
   2. Managing event listeners for dynamically created elements.
