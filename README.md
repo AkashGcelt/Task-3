@@ -8,11 +8,12 @@
   - Implemented form for adding employee details and display section for existing employees.
   - Utilized Font Awesome icons for edit and delete functionalities.
   - Wrote JavaScript code for handling form submission, editing, and deletion of employee records.
-- **Challenges Faced:**
-  1. Incorporating dynamic rendering of employee records posed challenges in structuring HTML elements.
-  2. Managing event listeners for dynamically created elements.
-  3. Ensuring proper validation and error handling for form submission.
-- **Solutions Implemented:**
+
+ ## Challenges Faced:
+  - Incorporating dynamic rendering of employee records posed challenges in structuring HTML elements.
+- Managing event listeners for dynamically created elements.
+  - Ensuring proper validation and error handling for form submission.
+  ## Solutions Implemented:
   1. Utilized flexbox and grid layout for structuring the UI, allowing for easier alignment and responsiveness.
   2. Employed event delegation to manage event listeners efficiently, especially for dynamically added elements.
   3. Implemented validation checks both client-side and server-side to ensure data integrity and prevent errors.
